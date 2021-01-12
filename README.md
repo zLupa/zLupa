@@ -5,4 +5,4 @@
 * In the future, i'll have some golang projects too
 
 # Contacts
-* Discord: zLupim#2348, Twitter: @zLupaa
+* Discord: Lupa#2348, Twitter: @zLupaa
